@@ -5,9 +5,10 @@
     - Uses an external API (FakeStoreAPI) for data management
     - Receive, update, delete products by interacting with the API
 > [!IMPORTANT]
-> IMPORTANT NOTE: Products on the page do not actually change when adding/editing/deleting products. A success or error message will simply display to the user upon the successful/failed API call.
+> Products on the page do not actually change when adding/editing/deleting products. A success or error message will simply display to the user upon the successful/failed API call.
 
 ## Languages and Libraries Used:
+- Javascript
 - React
 - React Bootstrap
 
