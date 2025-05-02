@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function HomePage () {
     return (
         <Container fluid className="p-0 h-100">
-            <header className="text-dark gradient-radial text-center p-5 h-100 d-flex flex-column justify-content-center">
+            <header className="text-dark text-center p-5 h-100 d-flex flex-column justify-content-center">
                 <h2 className="display-5 fw-bold">Welcome to the <i>Fake Store App!</i></h2>
                 <p className="fs-4">A place where you can sell anything your heart desires.</p>
                 <p className="text-muted small">Note: all products are digital only. Physical products do NOT exist.</p>
